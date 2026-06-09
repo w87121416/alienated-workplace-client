@@ -5,8 +5,8 @@ This repository is an isolated client repository for Alienated Workplace. It mus
 ## Required Environments
 
 - GitHub repository: `w87121416/alienated-workplace-client`
-- PlayFab Title: dedicated title, pending console creation
-- Steamworks App ID: dedicated app, pending developer console configuration
+- PlayFab Title: dedicated title `Alienated Workplace Dev`, Title ID `111B39`
+- Steamworks App ID: pending developer console configuration; current Steamworks account has no organization/app access
 - Web deployment: GitHub Pages workflow in `.github/workflows/pages.yml`
 
 ## Login Rules
@@ -25,3 +25,9 @@ This repository is an isolated client repository for Alienated Workplace. It mus
 ## Cost Policy
 
 Default to GitHub free hosting and PlayFab Free Tier. If concurrency, anti-cheat, audit log retention, or regional connectivity requires paid upgrades, prepare a budget request before enabling paid services.
+
+## Current External Console Status
+
+- PlayFab Game Manager is reachable and the dev title has been created.
+- PlayFab Steam Add-on is open and waiting for Steam Application ID and Steam Web API Key.
+- Steamworks account `zhanglance3` currently shows no affiliated organization and no app dashboard. Steamworks registration / Steam Direct must be approved and handled by the owner because it can involve agreements and payment.
