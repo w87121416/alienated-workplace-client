@@ -5,7 +5,7 @@ This repository is an isolated client repository for Alienated Workplace. It mus
 ## Required Environments
 
 - GitHub repository: `w87121416/alienated-workplace-client`
-- PlayFab Title: dedicated title `Alienated Workplace Dev`, Title ID `111B39`
+- PlayFab Title: dedicated title `Dog gun kill`, Title ID `185174`
 - Steamworks App ID: pending developer console configuration; current Steamworks account has no organization/app access
 - Web deployment: GitHub Pages workflow in `.github/workflows/pages.yml`
 
